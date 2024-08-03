@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGitFeature123Project
+  gitServerName: test1
+  gitUrl: https://github.com/PoojaAnandGit/TestGitFeature123Project
+  gitUsername: PoojaAnandGit
+  gitBranch: main
