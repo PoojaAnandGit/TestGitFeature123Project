@@ -16,3 +16,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.1081
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1081
