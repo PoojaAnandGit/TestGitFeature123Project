@@ -12,8 +12,4 @@
 <INVOKE NAME="Date" SERVICE="pub.date:calculateDateDifference">
   <COMMENT></COMMENT>
 </INVOKE>
-
-<INVOKE NAME="Date" SERVICE="pub.date:currentNanoTime">
-  <COMMENT></COMMENT>
-</INVOKE>
 </FLOW>
