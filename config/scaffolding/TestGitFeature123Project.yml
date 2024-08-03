@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/PoojaAnandGit/TestGitFeature123Project
   gitUsername: PoojaAnandGit
   gitBranch: main
+services:
+- serviceName: project.testgitfeature123.integrations:e11
+  packages:
+  - name: TestGitFeature123Project
+    version: "1.0"
+- serviceName: pub.date:calculateDateDifference
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1081
